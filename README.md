@@ -6,7 +6,7 @@ Designed for use with [THG F/X Intro Maker v3.0](https://demozoo.org/productions
 
 ## Index
 
-- cheese4.gif (the picture used for the background, made by [hip](VannaFluffie))
+- cheese4.gif (the picture used for the background, made by [hip](https://github.com/VannaFluffie))
 - CHEESE.BIN (ANSI screen, made by [RepellantMold](https://github.com/RepellantMold) using TheDraw)
 - CHEESE.MF (the preset you load into Intro Maker)
 - CHEESE.TXT (text file for the scroller)
